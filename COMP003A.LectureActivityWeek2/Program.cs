@@ -96,7 +96,7 @@ namespace COMP003A.LectureActivityWeek2
             string message = "Hello World!"; // string values are enclosed in double quotes
 
             Console.WriteLine("Concatenation using + : " + aLetter + " " + message); // use the plus(+) sign in between characters/ strings to concatenate
-            Console.WriteLine($"Concatenation using string interpolation : {aLetter}{ message}"); // use string interpolation with a dollar-sign ($) before the opening double-quote and enclosing variables with curly braces({ variableName})
+            Console.WriteLine($"Concatenation using string interpolation : {aLetter} { message}"); // use string interpolation with a dollar-sign ($) before the opening double-quote and enclosing variables with curly braces({ variableName})
 
             /* floating-point types */
             double number1 = 3.5623;
