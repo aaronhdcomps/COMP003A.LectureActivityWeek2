@@ -1,7 +1,7 @@
 ﻿/*
- * 
- * 
- * 
+ * Author: Aaron Abramson
+ * Course: COMP-003A
+ * Purpose: Lecture activity for week 2
  *
 */
 
